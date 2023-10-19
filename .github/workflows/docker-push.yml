@@ -35,4 +35,4 @@ jobs:
         with:
           context: ./src/
           push: true
-          tags: gha-docker-build
+          tags: geraldby/gha-docker:build
